@@ -1,0 +1,30 @@
+[user]
+    name = azmohan
+    email = azmohan.work@gmail.com
+[alias]
+    co = checkout
+    ci = commit
+    st = status
+    br = branch
+    oneline = log --pretty=oneline --since='2 days ago'
+    onelog = log -p -1
+    dc = dcommit
+    rb = rebase
+	vlog = !git log --all --decorate --graph
+	pl = pull
+    cv = clone vanzo:
+
+[color]
+    status = auto
+    branch = auto
+	ui = true
+    diff = auto
+    interactive = auto
+[core]
+    editor = vim
+[push]
+    default = matching
+[rerere]
+    autoupdate = no
+[merge]
+	tool = compare
