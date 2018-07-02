@@ -1,0 +1,19 @@
+[Desktop Entry]
+Encoding=UTF-8
+X-SuSE-translate=true
+Type=Application
+MimeType=application/x-eio
+InitialPreference=6
+Exec=/usr/bin/eio
+StartupNotify=true
+Icon=/usr/share/eiofileicon/eioicon.png
+Terminal=0
+Name=EIOffice 2009
+Name[zh_CN]=永中集成Office 2009
+Name[zh_TW]=EIOffice 2009
+Name[ja]=EIOffice 2009
+Comment[zh_CN]=永中集成Office 2009
+Comment[zh_TW]=EIOffice 2009
+Comment[ja]=EIOffice 2009
+Caption=EIO
+
